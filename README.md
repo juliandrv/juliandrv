@@ -24,8 +24,8 @@ Desarrollador web frontend apasionado por crear experiencias digitales interacti
 
 ### 📫 Contacto
 
-- ✉️ [julian.tucorreo@email.com](mailto:julian.tucorreo@email.com)
-- 🌐 [Portafolio](https://tusitio.dev) *(opcional)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- ✉️ [julian.tucorreo@email.com](mailto:judramirezva@gmail.com)
+- 🌐 [Portafolio](https://juliandrv.com) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/juliandrv)
 
 ---
