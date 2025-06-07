@@ -24,7 +24,7 @@ Desarrollador web frontend apasionado por crear experiencias digitales interacti
 
 ### 📫 Contacto
 
-- ✉️ [julian.tucorreo@email.com](mailto:judramirezva@gmail.com)
+- ✉️ [Correo](mailto:judramirezva@gmail.com)
 - 🌐 [Portafolio](https://juliandrv.com) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juliandrv)
 
