@@ -1,5 +1,5 @@
 # 👋 ¡Hola! / Hello!  
-### Soy Julían Ramírez / I’m Julían Ramírez
+### Soy Julián Ramírez / I’m Julían Ramírez
 
 Desarrollador web frontend apasionado por crear experiencias digitales interactivas, funcionales y accesibles.  
 Me encanta trabajar con tecnologías como **React**, **Three.js**, **Astro** y **GSAP** para crear interfaces dinámicas y sitios memorables.
